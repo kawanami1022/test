@@ -1,1 +1,2 @@
 Nam.txt　追加した
+Nam2.txt 追加した
